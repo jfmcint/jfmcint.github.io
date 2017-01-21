@@ -3,6 +3,10 @@ selector (
 property: value;
 )
 */
+@media screen and (min-width: 480px) {
+body {
+  background-color: lightgreen;
+  
 
 img (
 height: 200px;
